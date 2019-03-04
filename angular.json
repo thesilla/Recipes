@@ -23,7 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:\\Users\\Max Gillman\\Software Engineering\\School Stuff\\Udemy\\Complete Guide to Angular\\Projects\\CourseProject\\courseproject\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
             ],
             "scripts": []
           },
